@@ -7,7 +7,7 @@ import os
 # CONFIG
 # -----------------------
 st.set_page_config(page_title="Tree Price Dashboard", layout="wide")
-st.title("🌳 ระบบฐานข้อมูลราคาต้นไม้และพืชผล")
+st.title("🌳 ระบบฐานข้อมูลราคาตลาดและราคาประเมินต้นไม้")
 
 # -----------------------
 # LOAD DATA
